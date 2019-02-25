@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Pavel Efremov
+HTML CSS Basics: https://htmlacademy.ru/profile/id875199
